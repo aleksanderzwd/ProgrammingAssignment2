@@ -1,5 +1,5 @@
 ## The R script contains a set of functions that create and compute
-## an invert form of a matrix and also cache the resut.
+## an invert form of a matrix and also cache the result.
 
 
 
